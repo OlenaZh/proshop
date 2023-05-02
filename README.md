@@ -1,9 +1,10 @@
 # ProShop eCommerce Platform
 
->eCommerce platform built with the MERN stack & Redux.
+> eCommerce platform built with the MERN stack & Redux.
 
 ## Features
-- Full featured shopping cart
+
+- Full-featured shopping cart
 - Product reviews and ratings
 - Top products carousel
 - Product pagination
@@ -12,9 +13,9 @@
 - Admin product management
 - Admin user management
 - Admin Order details page
-- Mark orders as delivered option
+- Mark orders as a delivered option
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-### *Note: this document is not fully completed and will be updated.
+### \*Note: this document is not fully completed and will be updated.
